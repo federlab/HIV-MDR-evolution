@@ -1,0 +1,8 @@
+Regimen tested,Hypothesis tested,"number of successes (i.e., NNRTI resistance is the first DRM)","number of trials (i.e., total number of observations of a single DRM)",Expected probability of success based on mutation rates,One-sided binomial test p-value,rank,Benjamini-Hochberg significance threshold (FDR = 0.05),Significant
+3TC+D4T+EFV,NNRTI first,100,132,0.498,9.40E-10,1,0.007142857,TRUE
+EFV+FTC+TDF,NNRTI first,37,37,0.607,9.65E-09,2,0.014285714,TRUE
+3TC+D4T+NVP,NNRTI first,81,106,0.498,1.81E-08,3,0.021428571,TRUE
+3TC+AZT+EFV,NNRTI first,93,122,0.53,1.08E-07,4,0.028571429,TRUE
+3TC+ABC+EFV,NNRTI first,14,16,0.488,0.00154,5,0.035714286,TRUE
+3TC+AZT+NVP,NNRTI first,37,52,0.53,0.00594,6,0.042857143,TRUE
+3TC+EFV+TDF,NNRTI first,10,15,0.607,0.426,7,0.05,FALSE

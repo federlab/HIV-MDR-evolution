@@ -1,0 +1,8 @@
+Regimen tested,Hypothesis tested,"number of successes (i.e., 3TC or FTC resistance is the first DRM)","number of trials (i.e., total number of observations of a single DRM)",Expected probability of success based on mutation rates,One-sided binomial test p-value,rank,Benjamini-Hochberg significance threshold (FDR = 0.05),Significant
+3TC+D4T+LPV,3TC/FTC first,72,75,0.213,1.35E-44,1,0.007142857,TRUE
+3TC+AZT+NFV,3TC/FTC first,81,86,0.236,1.66E-44,2,0.014285714,TRUE
+3TC+D4T+NFV,3TC/FTC first,40,43,0.222,3.93E-23,3,0.021428571,TRUE
+3TC+AZT+IDV,3TC/FTC first,41,50,0.235,4.15E-18,4,0.028571429,TRUE
+3TC+D4T+IDV,3TC/FTC first,17,21,0.221,1.64E-08,5,0.035714286,TRUE
+3TC+AZT+LPV,3TC/FTC first,12,13,0.226,1.86E-07,6,0.042857143,TRUE
+3TC+AZT+SQV,3TC/FTC first,11,11,0.3,1.80E-06,7,0.05,TRUE
